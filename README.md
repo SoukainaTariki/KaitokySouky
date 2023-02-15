@@ -1,5 +1,5 @@
-- Hi, I'm Tsokyo 
-- Interested in web development and cyber security 
+- Hi, I'm soukaina tariki
+- Interested in AI, ,software engineering and cyber security 
 - I’m currently learning java, lunix basics and python 
 - For contact:
   . Tamashisoukaina@gmail.com 
