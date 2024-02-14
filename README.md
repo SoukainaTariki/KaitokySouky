@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Always%20hungry%20for%20more%20knowledge%20and%20tech%20innovations&font=Fira%20Code&center=true&width=560&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Always%20hungry%20for%20more%20knowledge%20and%20tech%20innovations&font=Fira%20Code&center=true&width=700&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 <div style="height: 300px;"> <!-- Set a height for the container -->
   <img width="240" align="right" src="https://c.tenor.com/W589nIs4kMMAAAAC/tenor.gif" float: right;">
